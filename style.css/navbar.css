@@ -19,8 +19,7 @@
 .container{
     max-width: 1350px;
     width:80%;
-    margin:0 auto;
-    /* border: 1px solid black; */
+    margin:0px auto;
 }
 header{
      background: rgba(255, 248, 243, 1);
