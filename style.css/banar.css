@@ -27,12 +27,16 @@
     background-image: url(/images/header_bg.png);
     background-position: center;
     background-repeat: no-repeat;
-    block-size: cover;
+    background-size:cover
 }
 .banar-info{
-   
+   display: flex;
+   flex-direction: column;
+   gap: 10px
 }
+
 .banar-img img{
-    height: 500px;
-    width: auto;
+    height:500px;
+    width:auto;
+
 }

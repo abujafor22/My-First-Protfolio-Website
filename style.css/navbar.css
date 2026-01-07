@@ -16,6 +16,9 @@
       background-color: rgba(253, 110, 10, 1);
       color: white;
 }
+/* .container{
+    max-width: 900px;
+} */
 .navbar-parent{
     display: flex;
     justify-content: space-between;
