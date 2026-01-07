@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+.btn-1{
+      height: 65px;
+      width: 150px;
+      border-radius: 5px;
+      border: none;
+      background-color: rgba(253, 110, 10, 1);
+      color: white;
+}
+.banar-parent{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    height: 600px;
+    width: auto;
+    background-color: #ffffff;
+    background-image: url(/images/header_bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    block-size: cover;
+}
+.banar-info{
+   
+}
+.banar-img img{
+    height: 500px;
+    width: auto;
+}
