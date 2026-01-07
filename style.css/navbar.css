@@ -16,14 +16,19 @@
       background-color: rgba(253, 110, 10, 1);
       color: white;
 }
-/* .container{
-    max-width: 900px;
-} */
+.container{
+    max-width: 1350px;
+    width:80%;
+    margin:0 auto;
+    /* border: 1px solid black; */
+}
+header{
+     background: rgba(255, 248, 243, 1);
+}
 .navbar-parent{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(255, 248, 243, 1);
     height: 100px;
 }
 .navbar-logo{

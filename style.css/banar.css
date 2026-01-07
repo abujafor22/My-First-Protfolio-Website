@@ -17,17 +17,21 @@
       color: white;
 }
 .banar-parent{
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    align-items: center;
-    height: 600px;
-    width: auto;
     background-color: #ffffff;
     background-image: url(/images/header_bg.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size:cover
+    background-size:cover;
+}
+.banar-spllid{
+     display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    height:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 .banar-info{
    display: flex;
